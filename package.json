@@ -1,0 +1,24 @@
+{
+  "name": "tp-ub_i4_104",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axelflores-ub/TP-UB_i4_104.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axelflores-ub/TP-UB_i4_104/issues"
+  },
+  "homepage": "https://github.com/axelflores-ub/TP-UB_i4_104#readme",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
